@@ -1,0 +1,18 @@
+*.jar
+target/
+
+# eclipse specific git ignore
+.project
+.metadata
+bin/
+gen/
+.classpath
+.settings/
+.project
+
+# IntelliJ
+.idea
+*.iml
+
+# Locally stored "Eclipse launch configurations"
+*.launch
